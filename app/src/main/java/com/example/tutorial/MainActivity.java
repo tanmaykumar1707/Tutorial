@@ -24,4 +24,10 @@ public class MainActivity extends AppCompatActivity {
         Intent send_intent = new Intent(MainActivity.this,ListView_activity.class);
         startActivity(send_intent);
     }
+
+
+    public void   go_radio(View v){
+        Intent send_intent = new Intent(MainActivity.this,radio_shared_activity.class);
+        startActivity(send_intent);
+    }
 }

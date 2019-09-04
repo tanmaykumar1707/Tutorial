@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".ListView_activity"></activity>
+        <activity android:name=".radio_shared_activity"></activity>
+        <activity android:name=".ListView_activity" />
         <activity android:name=".Send_message_Activity" />
         <activity android:name=".MainActivity">
             <intent-filter>

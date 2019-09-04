@@ -4,9 +4,9 @@
     <string name="yahoo">Yahoo</string>
     <string name="rediff">Rediffmail</string>
     <string-array name="domain_list_string">
-    <item> @string/gmail</item>
-    <item> @string/yahoo</item>
-    <item> @string/rediff</item>
+        <item> @string/gmail</item>
+        <item> @string/yahoo</item>
+        <item> @string/rediff</item>
 
     </string-array>
 </resources>
